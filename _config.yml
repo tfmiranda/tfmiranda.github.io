@@ -1,14 +1,14 @@
 # Site
-title:              tfmiranda
-bio:                'Bio here.'
-description:        "Brief description here."
+title:              tfmiranda's place
+bio:                'A lot of things.'
+description:        "Things about software development, my researchs and interesting stuffs."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+logo:               'assets/img/logo-site.png'
+background:         'assets/img/background-site.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://tfmiranda.github.io/
+url:                ""
 
 # Jekyll
 permalink:          /:title/
