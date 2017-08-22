@@ -1,0 +1,12 @@
+# Add new post to site
+1) Create a new file in _post directory as yyyy-MM-dd-title.md format;
+2) Write you post in markdown pattern;
+
+# Run local site server
+Run: bundle exec jekyll serve
+
+# Commit you updates
+	git status 
+	git add --all
+	git commit -m "<commit msg>"
+	git push origin master
